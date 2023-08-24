@@ -1,0 +1,35 @@
+ul,li{
+    list-style: none;
+}
+a{
+    color: rgb(80, 80, 80);
+    text-decoration: none;
+}
+.gnb{
+    a{
+        color:white;
+    }
+    .active{
+        a{
+             color:chartreuse
+        }
+    }
+}
+#se1{
+    width: 100%;
+    height: auto;
+    padding: 100px 100px 100px 0;
+    .text{
+        padding-left: 3rem;
+        color: #000000;
+        font-size: 1.5rem;
+        font-weight: 500;
+        line-height: 1.7307;
+    }
+    .logo{
+        height: 38px;
+        img{
+            margin-left: 28px;
+        }
+    }
+}

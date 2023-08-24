@@ -1,0 +1,83 @@
+{
+    "navi" :{
+    
+        "Fttime" : {
+            "time" : "평일 09~18시",
+            "date" : "토/일요일 및 공휴일 휴무"
+        },
+        "logosrc" : "./logo.png",
+        "gnb":[
+            {
+                "title" : "이벤트",
+                "alink" : "event"
+            },
+            {
+                "title" : "정기배송",
+                "alink" : "delivery"
+            },
+            {
+                "title" : "간식/음료",
+                "alink" : "snack"
+            },
+            {
+                "title" : "맞춤식단",
+                "alink" : "fixedfood"
+            },
+            {
+                "title" : "리뷰/SNS",
+                "alink" : "review"
+            }
+        ],
+        "utile":[
+            {
+                "title" : "매장찾기",
+                "alink" : "kakaomap"
+            },
+            {
+                "title" : "구매하기",
+                "alink" : "mart"
+            },
+            {
+                "title" : "검색",
+                "alink" : "search"
+            }
+        ]
+    },
+    "HdEvent" : [
+        {
+            "title" : "바디프로필",
+            "alink" : ""
+        },
+        {
+            "title" : "다이어트",
+            "alink" : ""
+        },
+        {
+            "title" : "그룹신청",
+            "alink" : ""
+        }
+    ],
+    "Hdlist" : [
+        {   
+            "menu" : ["Slim Menu","Slim Menu","Slim Menu"]
+          
+        },
+        {   
+            "menu" : ["라이스","치킨 라이스|Hd-Pading","죽"]
+            
+        },
+        {   
+            "menu" : ["닭가슴살","안심|Hd-Pading","장조림"]
+           
+        },
+        {   
+            "menu" : ["샐러드","감자사라다|Hd-Pading","나물무침"]
+        },
+        {   
+            "menu" : ["마테차","생과일주스|Hd-Pading","둥글레차"]
+        },
+        {   
+            "menu" : ["계란","토마토|Hd-Pading","딸기"]
+        }
+    ]
+}
